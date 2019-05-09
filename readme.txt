@@ -1,7 +1,3 @@
-Name - Navaneeth Thekkumpat
-
-UTA ID - 1001656413
-
 Programming Language used: Java
 
 How the code is structured.
